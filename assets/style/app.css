@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(175, 246, 246);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px ;
+}
+.profileimage {
+    width: 300px;
+}
+.profileimage h4 {
+    transform: translateY(-10x);
+}
+.contact a {
+    color: black;
+    font-size: 40px;
+}
